@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <a href="APP_STORE_URL"><img src="static/app-store-badge_cn.png" alt="在 App Store 下载" height="64"></a>
+  <a href="https://apps.apple.com/app/id6806811093"><img src="static/app-store-badge_cn.png" alt="在 App Store 下载" height="64"></a>
   <a href="https://play.google.com/store/apps/details?id=me.rosuh.easywatermark"><img src="static/google-play-badge_cn.png" alt="Google Play 下载" height="64"></a>
   <a href="https://github.com/rosuH/EasyWatermark/releases"><img src="static/github-release-badge_cn.png" alt="在 GitHub 下载" height="64"></a>
 </p>
@@ -72,7 +72,7 @@ Android 10 及以上只需选图，不必再要其他运行时权限。Android 9
 
 | 渠道 | 说明 |
 |---|---|
-| [App Store](APP_STORE_URL) | iOS |
+| [App Store](https://apps.apple.com/app/id6806811093) | iOS |
 | [Google Play](https://play.google.com/store/apps/details?id=me.rosuh.easywatermark) | 付费版，代码一致，用于支持后续开发 |
 | [GitHub Releases](https://github.com/rosuH/EasyWatermark/releases) | 最新 APK |
 | [F-Droid](https://f-droid.org/packages/me.rosuh.easywatermark/) | 免费，可复现的 Android 构建 |
