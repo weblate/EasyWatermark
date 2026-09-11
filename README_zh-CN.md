@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <a href="APP_STORE_URL"><img src="static/app-store-badge_cn.svg" alt="在 App Store 下载" height="64"></a>
+  <a href="APP_STORE_URL"><img src="static/app-store-badge_cn.png" alt="在 App Store 下载" height="64"></a>
   <a href="https://play.google.com/store/apps/details?id=me.rosuh.easywatermark"><img src="static/google-play-badge_cn.png" alt="Google Play 下载" height="64"></a>
   <a href="https://github.com/rosuH/EasyWatermark/releases"><img src="static/github-release-badge_cn.png" alt="在 GitHub 下载" height="64"></a>
 </p>
