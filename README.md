@@ -28,13 +28,13 @@
 </p>
 
 <p align="center">
-  <img src="fastlane/metadata/android/en-US/images/featureGraphic.png" alt="Easy Watermark — no network, that's safer" width="880">
+  <a href="APP_STORE_URL"><img src="static/app-store-badge.svg" alt="Download on the App Store" height="64"></a>
+  <a href="https://play.google.com/store/apps/details?id=me.rosuh.easywatermark"><img src="static/google-play-badge.png" alt="Get it on Google Play" height="64"></a>
+  <a href="https://github.com/rosuH/EasyWatermark/releases"><img src="static/github-release-badge.png" alt="Get it on GitHub" height="64"></a>
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=me.rosuh.easywatermark"><img src="static/google-play-badge.png" alt="Get it on Google Play" height="64"></a>
-  <a href="https://f-droid.org/packages/me.rosuh.easywatermark/"><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="64"></a>
-  <a href="https://www.coolapk.com/apk/272743"><img src="static/logo_coolapk.png" alt="Get it on Coolapk" height="64"></a>
+  <img src="fastlane/metadata/android/en-US/images/featureGraphic.png" alt="Easy Watermark — no network, that's safer" width="880">
 </p>
 
 <p align="center">
@@ -70,12 +70,12 @@ Use a developer-run channel:
 
 | Channel | Notes |
 |---|---|
-| [GitHub Releases](https://github.com/rosuH/EasyWatermark/releases) | Latest APK |
+| [App Store](APP_STORE_URL) | iOS |
 | [Google Play](https://play.google.com/store/apps/details?id=me.rosuh.easywatermark) | Paid edition, same code — supports ongoing development |
-| [F-Droid](https://f-droid.org/packages/me.rosuh.easywatermark/) | Free, reproducible build |
-| [Coolapk](https://www.coolapk.com/apk/272743) | Listed for users in China |
+| [GitHub Releases](https://github.com/rosuH/EasyWatermark/releases) | Latest APK |
+| [F-Droid](https://f-droid.org/packages/me.rosuh.easywatermark/) | Free, reproducible Android build |
 
-Listings elsewhere are unofficial. Check the package name `me.rosuh.easywatermark` before you install.
+Listings elsewhere are unofficial. On Android, check the package name `me.rosuh.easywatermark` before you install.
 
 ## Open source
 
