@@ -28,13 +28,13 @@
 </p>
 
 <p align="center">
-  <img src="fastlane/metadata/android/zh-CN/images/featureGraphic.png" alt="简单水印 — 不联网，很安全" width="880">
+  <a href="https://apps.apple.com/app/id6806811093"><img src="static/app-store-badge_cn.png" alt="在 App Store 下载" height="64"></a>
+  <a href="https://play.google.com/store/apps/details?id=me.rosuh.easywatermark"><img src="static/google-play-badge_cn.png" alt="Google Play 下载" height="64"></a>
+  <a href="https://github.com/rosuH/EasyWatermark/releases"><img src="static/github-release-badge_cn.png" alt="在 GitHub 下载" height="64"></a>
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=me.rosuh.easywatermark"><img src="static/google-play-badge_cn.png" alt="Google Play 下载" height="64"></a>
-  <a href="https://f-droid.org/packages/me.rosuh.easywatermark/"><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="F-Droid 下载" height="64"></a>
-  <a href="https://www.coolapk.com/apk/272743"><img src="static/logo_coolapk.png" alt="酷安下载" height="64"></a>
+  <img src="fastlane/metadata/android/zh-CN/images/featureGraphic.png" alt="简单水印 — 不联网，很安全" width="880">
 </p>
 
 <p align="center">
@@ -72,12 +72,12 @@ Android 10 及以上只需选图，不必再要其他运行时权限。Android 9
 
 | 渠道 | 说明 |
 |---|---|
-| [GitHub Releases](https://github.com/rosuH/EasyWatermark/releases) | 最新 APK |
+| [App Store](https://apps.apple.com/app/id6806811093) | iOS |
 | [Google Play](https://play.google.com/store/apps/details?id=me.rosuh.easywatermark) | 付费版，代码一致，用于支持后续开发 |
-| [F-Droid](https://f-droid.org/packages/me.rosuh.easywatermark/) | 免费，可复现构建 |
-| [酷安](https://www.coolapk.com/apk/272743) | 国内列表 |
+| [GitHub Releases](https://github.com/rosuH/EasyWatermark/releases) | 最新 APK |
+| [F-Droid](https://f-droid.org/packages/me.rosuh.easywatermark/) | 免费，可复现的 Android 构建 |
 
-其他渠道均非开发者维护。安装前请核对包名 `me.rosuh.easywatermark`。
+其他渠道均非开发者维护。Android 安装前请核对包名 `me.rosuh.easywatermark`。
 
 ## 开源
 
